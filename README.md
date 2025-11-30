@@ -1,5 +1,3 @@
-# Binary Analysis | Graphics Programming | Protocol Research
-
 Self-taught researcher specializing in the Microsoft gaming ecosystem, binary exploitation, and high-performance rendering engines.
 
 ### Focus Areas
